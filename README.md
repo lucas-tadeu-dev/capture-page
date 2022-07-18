@@ -1,4 +1,6 @@
-# capture-page - Lead Capture Page
+# capture-page
+
+Neste projeto fiz uma página de captura de Leads
 
 Neste projeto fiz uma página de captura de Leads, para marketing digital e lançamentos.
 Neste projeto aprimorei HTML e CSS, e treinei Forms, também fiz toda a integração com o MailChimp para salvar os e-mails capturados
