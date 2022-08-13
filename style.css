@@ -22,7 +22,7 @@ h1{
 section{
   color: black;
   padding: 20px;
-  background-image: url(../img/people.jpg);
+  background-image: url(img/people.jpg);
   background-size:cover ;
   overflow: hidden;
 }
